@@ -2,7 +2,7 @@
 
 **Last updated:** February 2026
 
-Easy GPX Creator (“we”, “our”, or “the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use the Easy GPX Creator mobile application for iOS.
+Easy GPX Creator (“we”, “our”, or “the App”) respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use the Easy GPX Creator  mobile application for  iOS.
 
 ---
 
