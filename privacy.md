@@ -6,7 +6,7 @@ Easy GPX Creator (“we”, “our”, or “the App”) respects your privacy a
 
 ---
 
-## 1. Overview
+## 1. Overview 
 
 Easy GPX Creator is designed to work **without requiring an account** and **without collecting personal data**. All routes you create remain on your device unless you explicitly choose to export or share them.
 
